@@ -45,7 +45,7 @@ pip install pandas scikit-learn matplotlib
 1. Open a terminal in the project folder.
 2. Run the main script:
 ```bash
-   python main.py
+   python code_heart.py
 ```
 3. Enter the requested patient details when prompted (age, sex, blood pressure, heart rate, cholesterol).
 4. View the prediction output and the generated line chart.
