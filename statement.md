@@ -21,10 +21,9 @@ This project does **not** cover:
 
 # Target Users
 
-- **Students and educators** — as a learning project to understand the basics of Machine Learning classification models
+- **Individuals with limited access to healthcare** — people who may not have easy or affordable access to regular medical check-ups and could benefit from a quick, preliminary risk assessment
 - **Beginners in Data Science/ML** — looking to understand a simple end-to-end ML pipeline (data preprocessing, training, prediction, visualization)
 - **Healthcare enthusiasts** — interested in exploring how ML can be applied to healthcare-related problems
-- **Academic evaluators** — reviewing this as a college/academic project submission
 
 # High-Level Features
 
