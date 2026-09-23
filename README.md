@@ -16,8 +16,8 @@ The user provides the following patient details:
 
 The model is trained on `heart_dataset.csv` and outputs:
 
-- **Prediction:** Whether heart disease is likely (Yes/No)
-- **Probability Score:** Confidence level of the prediction
+- Presence of Heart Disease (YES/NO)
+- Probability of Heart Disease
 
 A line chart is also generated using Matplotlib to visualize the entered health parameters at a glance.
 
@@ -29,6 +29,11 @@ A line chart is also generated using Matplotlib to visualize the entered health 
 | Scikit-learn | Model building and prediction |
 | Matplotlib | Data visualization |
 
+## Installation
+Install required libraries using:
+
+```bash
+pip install pandas scikit-learn matplotlib
 ### Project Files
 - `main.py` — main script that runs the prediction system
 - `heart_dataset.csv` — dataset used to train the model
