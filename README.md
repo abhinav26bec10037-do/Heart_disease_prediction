@@ -32,5 +32,5 @@ A line chart is also generated using Matplotlib to visualize the entered health 
 ## Installation
 Install required libraries using:
 
-``bash
+
 pip install pandas scikit-learn matplotlib
