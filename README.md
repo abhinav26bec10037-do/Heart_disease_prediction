@@ -60,3 +60,8 @@ pip install pandas scikit-learn matplotlib
 
 3. **Visualization check**
    Confirm that after each run, a line chart pops up correctly showing the entered health parameters.
+
+   ## Sample Output
+
+   <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/958063fb-fda5-415b-bd80-4f1c0f341e68" />
+
