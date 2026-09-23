@@ -32,8 +32,5 @@ A line chart is also generated using Matplotlib to visualize the entered health 
 ## Installation
 Install required libraries using:
 
-```bash
+``bash
 pip install pandas scikit-learn matplotlib
-### Project Files
-- `main.py` — main script that runs the prediction system
-- `heart_dataset.csv` — dataset used to train the model
