@@ -29,6 +29,11 @@ A line chart is also generated using Matplotlib to visualize the entered health 
 | Scikit-learn | Model building and prediction |
 | Matplotlib | Data visualization |
 
+## Files Required
+- `main.py`
+- `heart_dataset.csv`
+
+
 ## Installation
 Install required libraries using:
 
