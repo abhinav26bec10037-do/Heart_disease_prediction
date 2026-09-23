@@ -8,7 +8,7 @@ This project focuses on building a basic Machine Learning-based prediction syste
 
 The scope includes:
 - Taking user-provided health parameters as input (Age, Sex, Blood Pressure, Heart Rate, Cholesterol)
-- Training a Logistic Regression model on a sample dataset (`data.csv`)
+- Training a Logistic Regression model on a sample dataset (`heart_dataset.csv`)
 - Predicting whether the patient is likely to have heart disease (Yes/No)
 - Displaying the probability of the prediction
 - Visualizing the entered health parameters through a line chart
