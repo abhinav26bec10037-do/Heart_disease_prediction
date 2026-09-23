@@ -40,17 +40,23 @@ Install required libraries using:
 
 pip install pandas scikit-learn matplotlib
 
-## How to Run
-Open a terminal in the project folder.
-Run the main script:
-bash
+###  Run the project
+
+1. Open a terminal in the project folder.
+2. Run the main script:
+```bash
    python main.py
-Enter the requested patient details when prompted (age, sex, blood pressure, heart rate, cholesterol).
-View the prediction output and the generated line chart.
-## Testing the Project
-Basic functionality test
-Run the script with sample values (e.g., Age: 55, Sex: Male, BP: 140, Heart Rate: 80, Cholesterol: 230) and confirm it returns a prediction (Yes/No) along with a probability score.
-Edge case testing
-Try boundary values such as very low/high age, blood pressure, or cholesterol to check the model doesn't crash and still returns a reasonable output.
-Visualization check
-Confirm that after each run, a line chart pops up correctly showing the entered health parameters.
+```
+3. Enter the requested patient details when prompted (age, sex, blood pressure, heart rate, cholesterol).
+4. View the prediction output and the generated line chart.
+
+###  Instructions for testing
+
+1. **Basic functionality test**
+   Run the script with sample values (e.g., Age: 55, Sex: Male, BP: 140, Heart Rate: 80, Cholesterol: 230) and confirm it returns a prediction (Yes/No) along with a probability score.
+
+2. **Edge case testing**
+   Try boundary values such as very low/high age, blood pressure, or cholesterol to check the model doesn't crash and still returns a reasonable output.
+
+3. **Visualization check**
+   Confirm that after each run, a line chart pops up correctly showing the entered health parameters.
