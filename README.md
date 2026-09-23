@@ -30,8 +30,8 @@ A line chart is also generated using Matplotlib to visualize the entered health 
 | Matplotlib | Data visualization |
 
 ## Files Required
-- `main.py`
-- `heart_dataset.csv`
+- `code_heart.py`
+- `data.csv`
 
 
 ## Installation
