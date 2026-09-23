@@ -14,7 +14,7 @@ The user provides the following patient details:
 - Heart Rate
 - Cholesterol
 
-The model is trained on `data.csv` and outputs:
+The model is trained on `heart_dataset.csv` and outputs:
 
 - Presence of Heart Disease (YES/NO)
 - Probability of Heart Disease
@@ -31,7 +31,7 @@ A line chart is also generated using Matplotlib to visualize the entered health 
 
 ## Files Required
 - `code_heart.py`
-- `data.csv`
+- `heart_dataset.csv`
 
 
 ## Installation
