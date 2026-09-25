@@ -3,7 +3,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 import matplotlib.pyplot as plt
 
-# Load dataset
+# Loading dataset
 data = pd.read_csv("heart_dataset.csv")
 
 # Features and Target
@@ -47,7 +47,7 @@ else:
 
 print(f"Probability of Heart Disease: {probability:.2f}")
 
-# -------- LINE CHART OUTPUT --------
+#Line chart
 
 # Data for line chart
 labels = ["Age", "BP", "Heart Rate", "Cholesterol"]
